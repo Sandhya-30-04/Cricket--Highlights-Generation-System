@@ -1,13 +1,8 @@
 # Cricket--Highlights-Generation-System
 
-## Developed by
-JAYASHREE V (111522104064)  
-ARUL MARIAMMAL N (111522104018)  
+## Developed by  
 SANDHYA S (111522104185)  
-ODURU DARSHITHA (111522104108)  
-TALLAPALLI VARSHITHA (111522104151)  
 (from RMD ENGINEERING COLLEGE)
-
 ---
 
 ## Overview
