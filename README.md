@@ -1,4 +1,4 @@
-# Cricket--Highlights-Generation-System
+# Cricket_Highlights_Generation_System
 
 ## Developed by  
 SANDHYA S (111522104185)  
